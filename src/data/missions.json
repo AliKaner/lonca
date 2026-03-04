@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mission_1",
+    "story": "The Goblins of the Ironhold mountains are raiding caravans.",
+    "levelRange": [1, 5],
+    "goldReward": 5,
+    "kingdom": "Ironhold",
+    "xp": 10,
+    "monsters": ["m1", "m2"],
+    "image": "https://placehold.co/800x400/34495e/white?text=Ironhold+Wastes"
+  },
+  {
+    "id": "mission_2",
+    "story": "A sacred relic has been stolen from the Cathedral of Aethelgard.",
+    "levelRange": [3, 8],
+    "goldReward": 12,
+    "kingdom": "Aethelgard",
+    "xp": 25,
+    "monsters": ["m2", "m3"],
+    "image": "https://placehold.co/800x400/f1c40f/black?text=Aethelgard+Sanctum"
+  },
+  {
+    "id": "mission_3",
+    "story": "Mysterious lights are appearing in the Shadowfen swamps.",
+    "levelRange": [5, 12],
+    "goldReward": 20,
+    "kingdom": "Shadowfen",
+    "xp": 50,
+    "monsters": ["m3", "m4"],
+    "image": "https://placehold.co/800x400/27ae60/white?text=Shadowfen+Mires"
+  },
+  {
+    "id": "mission_4",
+    "story": "The Silverpine elves seek help against a spreading blight.",
+    "levelRange": [2, 6],
+    "goldReward": 8,
+    "kingdom": "Silverpine",
+    "xp": 15,
+    "monsters": ["m1", "m3"],
+    "image": "https://placehold.co/800x400/2ecc71/white?text=Silverpine+Woods"
+  },
+  {
+    "id": "mission_5",
+    "story": "A dragon's shadow has fallen over the Drakos volcanic peaks.",
+    "levelRange": [10, 20],
+    "goldReward": 50,
+    "kingdom": "Drakos",
+    "xp": 150,
+    "monsters": ["m4", "m5"],
+    "image": "https://placehold.co/800x400/e74c3c/white?text=Drakos+Crags"
+  },
+  {
+    "id": "mission_6",
+    "story": "Stormreach pirates have occupied the main shipping harbor.",
+    "levelRange": [6, 15],
+    "goldReward": 30,
+    "kingdom": "Stormreach",
+    "xp": 80,
+    "monsters": ["m2", "m4"],
+    "image": "https://placehold.co/800x400/2980b9/white?text=Stormreach+Docks"
+  },
+  {
+    "id": "mission_7",
+    "story": "The ancient ruins of Zandalar are trembling with magical energy.",
+    "levelRange": [8, 18],
+    "goldReward": 40,
+    "kingdom": "Zandalar",
+    "xp": 100,
+    "monsters": ["m3", "m5"],
+    "image": "https://placehold.co/800x400/8e44ad/white?text=Zandalar+Ruins"
+  }
+]

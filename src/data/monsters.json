@@ -1,0 +1,50 @@
+[
+  {
+    "id": "monster_goblin",
+    "name": "Sneaky Goblin",
+    "power": 1,
+    "diceCount": 1
+  },
+  {
+    "id": "monster_orc",
+    "name": "Orc Brawler",
+    "power": 3,
+    "diceCount": 2
+  },
+  {
+    "id": "monster_dragon_young",
+    "name": "Young Dragon",
+    "power": 8,
+    "diceCount": 3
+  },
+  {
+    "id": "monster_wyvern",
+    "name": "Poison Wyvern",
+    "power": 6,
+    "diceCount": 2
+  },
+  {
+    "id": "monster_ghost",
+    "name": "Spectral Ghost",
+    "power": 5,
+    "diceCount": 2
+  },
+  {
+    "id": "monster_wraith",
+    "name": "Night Wraith",
+    "power": 10,
+    "diceCount": 4
+  },
+  {
+    "id": "monster_lich",
+    "name": "Ancient Lich",
+    "power": 15,
+    "diceCount": 5
+  },
+  {
+    "id": "monster_demon",
+    "name": "Fire Demon",
+    "power": 20,
+    "diceCount": 6
+  }
+]

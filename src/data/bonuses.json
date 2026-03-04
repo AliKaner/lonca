@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bonus_gold",
+    "name": "King's Bounty",
+    "type": "Gain gold",
+    "value": 20
+  },
+  {
+    "id": "bonus_hero",
+    "name": "Mercenary Contract",
+    "type": "Gain hero",
+    "value": "hero_warrior"
+  },
+  {
+    "id": "bonus_revive",
+    "name": "Phoenix Feather",
+    "type": "Save hero from death",
+    "value": 1
+  }
+]
